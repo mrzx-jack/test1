@@ -25,4 +25,4 @@ class Ship():
         self.rect.centerx = self.center
     def blitme(self):
         self.screen.blit(self.image,self.rect)
-        #test:20211216
+       
