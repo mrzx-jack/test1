@@ -26,3 +26,4 @@ class Ship():
     def blitme(self):
         self.screen.blit(self.image,self.rect)
 #202205291641
+#202205291841
