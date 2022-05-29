@@ -25,5 +25,10 @@ class Ship():
         self.rect.centerx = self.center
     def blitme(self):
         self.screen.blit(self.image,self.rect)
+<<<<<<< HEAD
 #202205291522
+=======
+#202205291629
+
+>>>>>>> d0cf39f (add_202205291629)
        
